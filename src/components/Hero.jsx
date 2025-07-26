@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+
 const Hero = () => {
   const [openModal, setOpenModal] = useState(false);
 
@@ -8,7 +9,7 @@ const Hero = () => {
       <div className="flex flex-col items-center justify-center text-center pt-28 pb-12">
         {/* DP image */}
         <img
-          src="Sahil idp.jpg"
+          src="/Sahil idp.jpg"
           alt="Sahil's DP"
           onClick={() => setOpenModal(true)}
           className="w-40 h-40 rounded-full border-4 border-blue-500 object-cover mb-4 cursor-pointer hover:scale-105 transition"

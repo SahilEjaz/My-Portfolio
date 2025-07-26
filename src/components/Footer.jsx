@@ -20,7 +20,7 @@ const Footer = () => {
           Vercel
         </a>
         <a
-          href="https://linkedin.com/in/sahil-jafri"
+          href="https://www.linkedin.com/in/sahil-ejaz-a2491821b/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:underline text-blue-400"

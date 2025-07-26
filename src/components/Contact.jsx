@@ -42,7 +42,7 @@ const Contact = () => {
         <div className="flex items-center gap-4">
           <FaLinkedin className="text-blue-700 text-xl" />
           <a
-            href="https://www.linkedin.com/in/sahil-ejaz/"
+            href="https://www.linkedin.com/in/sahil-ejaz-a2491821b/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition"
