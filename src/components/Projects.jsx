@@ -1,5 +1,17 @@
 const projects = [
   {
+  title: "Customer Support System",
+  desc: "A React-based customer support application that allows users to register, log in, create support tickets, and manage their queries through a dashboard.",
+  github: "YOUR_GITHUB_REPOSITORY_LINK",
+  live: "https://customer-support-frontend-six.vercel.app/Login",
+},
+  {
+  title: "MegaApp",
+  desc: "A React-based application featuring user authentication, state management, and reusable components to provide a smooth user experience.",
+  github: "YOUR_GITHUB_REPOSITORY_LINK",
+  live: "https://mega-app-1sv7.vercel.app/",
+},
+  {
     title: "Legal Query Assistance",
     desc: " An AI-powered frontend app built with React that allows users to input legal queries and receive contextual responses with highlighted sources — styled with Tailwind and React Router.",
     github: "https://github.com/SahilEjaz/Legal-Query-App",
